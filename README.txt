@@ -1,3 +1,7 @@
+Also need to download Microchip Library for Applications, zipped and linked here.
+Unzip at the same level as the UBW firmware.
+https://www.dropbox.com/s/0ihd9miab1dxfym/Microchip_MLA_UBW.zip?dl=0
+
 UBW Firmware D version 1.4.9 Release 09/04/2011
 
 * Added fourth paramter to F command, from 1 to 99, specifying PWM percentage (optional)
