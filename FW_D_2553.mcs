@@ -1,0 +1,136 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=D:\Projects\UBW\FW\D\Output\main.o
+Folder=Intermediary
+DeviceName=PIC18F2553
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.38\bin\mcc18.exe
+PPAD=$(BINDIR)|.\Output||$(TMPDIR)|.\Output||$(AINDIR)||$(INCDIR)|C:\Program Files\Microchip\mplabc18\v3.38\h;..\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc18\v3.38\lib;C:\Program Files\Microchip\mplabc18\v3.38\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user.c|..\Microchip\USB\usb_device.c|..\Microchip\USB\CDC Device Driver\usb_function_cdc.c|usb_descriptors.c||<obj>||<lib>||<lkr>|18f2553_g_bl.lkr||
+SuiteArgsString=
+ToolArgsString=-DUBW
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=D:\Projects\UBW\FW\D\Output\user.o
+Folder=Intermediary
+DeviceName=PIC18F2553
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.38\bin\mcc18.exe
+PPAD=$(BINDIR)|.\Output||$(TMPDIR)|.\Output||$(AINDIR)||$(INCDIR)|C:\Program Files\Microchip\mplabc18\v3.38\h;..\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc18\v3.38\lib;C:\Program Files\Microchip\mplabc18\v3.38\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user.c|..\Microchip\USB\usb_device.c|..\Microchip\USB\CDC Device Driver\usb_function_cdc.c|usb_descriptors.c||<obj>||<lib>||<lkr>|18f2553_g_bl.lkr||
+SuiteArgsString=
+ToolArgsString=-DUBW
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=D:\Projects\UBW\FW\D\Output\usb_device.o
+Folder=Intermediary
+DeviceName=PIC18F2553
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.38\bin\mcc18.exe
+PPAD=$(BINDIR)|.\Output||$(TMPDIR)|.\Output||$(AINDIR)||$(INCDIR)|C:\Program Files\Microchip\mplabc18\v3.38\h;..\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc18\v3.38\lib;C:\Program Files\Microchip\mplabc18\v3.38\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user.c|..\Microchip\USB\usb_device.c|..\Microchip\USB\CDC Device Driver\usb_function_cdc.c|usb_descriptors.c||<obj>||<lib>||<lkr>|18f2553_g_bl.lkr||
+SuiteArgsString=
+ToolArgsString=-DUBW
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=D:\Projects\UBW\FW\D\Output\usb_function_cdc.o
+Folder=Intermediary
+DeviceName=PIC18F2553
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.38\bin\mcc18.exe
+PPAD=$(BINDIR)|.\Output||$(TMPDIR)|.\Output||$(AINDIR)||$(INCDIR)|C:\Program Files\Microchip\mplabc18\v3.38\h;..\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc18\v3.38\lib;C:\Program Files\Microchip\mplabc18\v3.38\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user.c|..\Microchip\USB\usb_device.c|..\Microchip\USB\CDC Device Driver\usb_function_cdc.c|usb_descriptors.c||<obj>||<lib>||<lkr>|18f2553_g_bl.lkr||
+SuiteArgsString=
+ToolArgsString=-DUBW
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=D:\Projects\UBW\FW\D\Output\usb_descriptors.o
+Folder=Intermediary
+DeviceName=PIC18F2553
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.38\bin\mcc18.exe
+PPAD=$(BINDIR)|.\Output||$(TMPDIR)|.\Output||$(AINDIR)||$(INCDIR)|C:\Program Files\Microchip\mplabc18\v3.38\h;..\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc18\v3.38\lib;C:\Program Files\Microchip\mplabc18\v3.38\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user.c|..\Microchip\USB\usb_device.c|..\Microchip\USB\CDC Device Driver\usb_function_cdc.c|usb_descriptors.c||<obj>||<lib>||<lkr>|18f2553_g_bl.lkr||
+SuiteArgsString=
+ToolArgsString=-DUBW
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=D:\Projects\UBW\FW\D\.\Output\FW_D_2553.cof
+Folder=Output
+DeviceName=PIC18F2553
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.38\bin\mplink.exe
+PPAD=$(BINDIR)|.\Output||$(TMPDIR)|.\Output||$(AINDIR)||$(INCDIR)|C:\Program Files\Microchip\mplabc18\v3.38\h;..\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc18\v3.38\lib;C:\Program Files\Microchip\mplabc18\v3.38\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user.c|..\Microchip\USB\usb_device.c|..\Microchip\USB\CDC Device Driver\usb_function_cdc.c|usb_descriptors.c||<obj>||<lib>||<lkr>|18f2553_g_bl.lkr||
+SuiteArgsString=
+ToolArgsString=/m"$(BINDIR_)$(TARGETBASE).map" /o"$(BINDIR_)$(TARGETBASE).cof" /uPROGRAMMABLE_WITH_USB_MCHPUSB_BOOTLOADER
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=D:\Projects\UBW\FW\D\.\Output\FW_D_2553.hex
+Folder=Output
+DeviceName=PIC18F2553
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.38\bin\mplink.exe
+PPAD=$(BINDIR)|.\Output||$(TMPDIR)|.\Output||$(AINDIR)||$(INCDIR)|C:\Program Files\Microchip\mplabc18\v3.38\h;..\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc18\v3.38\lib;C:\Program Files\Microchip\mplabc18\v3.38\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user.c|..\Microchip\USB\usb_device.c|..\Microchip\USB\CDC Device Driver\usb_function_cdc.c|usb_descriptors.c||<obj>||<lib>||<lkr>|18f2553_g_bl.lkr||
+SuiteArgsString=
+ToolArgsString=/m"$(BINDIR_)$(TARGETBASE).map" /o"$(BINDIR_)$(TARGETBASE).cof" /uPROGRAMMABLE_WITH_USB_MCHPUSB_BOOTLOADER
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=D:\Projects\UBW\FW\D\.\Output\FW_D_2553.cod
+Folder=Output
+DeviceName=PIC18F2553
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.38\bin\mplink.exe
+PPAD=$(BINDIR)|.\Output||$(TMPDIR)|.\Output||$(AINDIR)||$(INCDIR)|C:\Program Files\Microchip\mplabc18\v3.38\h;..\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc18\v3.38\lib;C:\Program Files\Microchip\mplabc18\v3.38\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user.c|..\Microchip\USB\usb_device.c|..\Microchip\USB\CDC Device Driver\usb_function_cdc.c|usb_descriptors.c||<obj>||<lib>||<lkr>|18f2553_g_bl.lkr||
+SuiteArgsString=
+ToolArgsString=/m"$(BINDIR_)$(TARGETBASE).map" /o"$(BINDIR_)$(TARGETBASE).cof" /uPROGRAMMABLE_WITH_USB_MCHPUSB_BOOTLOADER
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=D:\Projects\UBW\FW\D\.\Output\FW_D_2553.lst
+Folder=Output
+DeviceName=PIC18F2553
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.38\bin\mplink.exe
+PPAD=$(BINDIR)|.\Output||$(TMPDIR)|.\Output||$(AINDIR)||$(INCDIR)|C:\Program Files\Microchip\mplabc18\v3.38\h;..\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc18\v3.38\lib;C:\Program Files\Microchip\mplabc18\v3.38\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user.c|..\Microchip\USB\usb_device.c|..\Microchip\USB\CDC Device Driver\usb_function_cdc.c|usb_descriptors.c||<obj>||<lib>||<lkr>|18f2553_g_bl.lkr||
+SuiteArgsString=
+ToolArgsString=/m"$(BINDIR_)$(TARGETBASE).map" /o"$(BINDIR_)$(TARGETBASE).cof" /uPROGRAMMABLE_WITH_USB_MCHPUSB_BOOTLOADER
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=D:\Projects\UBW\FW\D\.\Output\FW_D_2553.map
+Folder=Output
+DeviceName=PIC18F2553
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.38\bin\mplink.exe
+PPAD=$(BINDIR)|.\Output||$(TMPDIR)|.\Output||$(AINDIR)||$(INCDIR)|C:\Program Files\Microchip\mplabc18\v3.38\h;..\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\mplabc18\v3.38\lib;C:\Program Files\Microchip\mplabc18\v3.38\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user.c|..\Microchip\USB\usb_device.c|..\Microchip\USB\CDC Device Driver\usb_function_cdc.c|usb_descriptors.c||<obj>||<lib>||<lkr>|18f2553_g_bl.lkr||
+SuiteArgsString=
+ToolArgsString=/m"$(BINDIR_)$(TARGETBASE).map" /o"$(BINDIR_)$(TARGETBASE).cof" /uPROGRAMMABLE_WITH_USB_MCHPUSB_BOOTLOADER
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{96C98149-AA1B-4CF9-B967-FAE79CAB663C}=C:\Program Files\Microchip\mplabc18\v3.38\bin\mplink.exe
+tool_loc{E56A1C86-9D32-4DF6-8C34-FE0388B1B644}=C:\Program Files\Microchip\mplabc18\v3.38\bin\mcc18.exe
